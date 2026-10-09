@@ -1,2 +1,2 @@
 # ComfyUI-VisionBridge
-Industrial Camera Integration for AI Workflows
+GIGe Industrial Camera Integration for AI Workflows
